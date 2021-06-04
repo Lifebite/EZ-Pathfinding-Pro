@@ -1,3 +1,5 @@
+# Download Link: https://www.roblox.com/library/6909680501/EZ-Pathfinding-Pro
+
 EZ Pathfinding Pro is a simple pathfinding module created for use in roblox games. It incorporates OOP and demonstrates good formatting, readability, and reliability. Extensions can be added by submitting a request with your extension in the lua sourse format.
 
 # Why should I use this module?
